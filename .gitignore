@@ -1,0 +1,12 @@
+Library/ 
+Logs/ 
+Packages/ 
+Temp/ 
+UserSettings/ 
+.plastic/ 
+.vs/
+*.DS_Store
+*.vsconfig 
+*.conf 
+*.sln 
+*.csproj 
