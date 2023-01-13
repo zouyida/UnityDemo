@@ -15,61 +15,61 @@ MonoBehaviour:
   enemyDataList:
   - id: 1
     progressId: 1
-    enemyType: 1
-    spawnTime: 3
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 3.5
+    spawnPositionX: -43
+    spawnPositionY: 49
   - id: 2
     progressId: 1
-    enemyType: 1
-    spawnTime: 6
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 7
+    spawnPositionX: -19
+    spawnPositionY: -27
   - id: 3
     progressId: 1
-    enemyType: 1
-    spawnTime: 9
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 10.5
+    spawnPositionX: -29
+    spawnPositionY: 6
   - id: 4
     progressId: 1
-    enemyType: 1
-    spawnTime: 12
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 14
+    spawnPositionX: -24
+    spawnPositionY: -24
   - id: 5
     progressId: 1
-    enemyType: 1
-    spawnTime: 15
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 17.5
+    spawnPositionX: -38
+    spawnPositionY: -40
   - id: 6
     progressId: 1
-    enemyType: 1
-    spawnTime: 18
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 21
+    spawnPositionX: 30
+    spawnPositionY: 33
   - id: 7
     progressId: 1
-    enemyType: 1
-    spawnTime: 21
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 24.5
+    spawnPositionX: 50
+    spawnPositionY: -43
   - id: 8
     progressId: 1
-    enemyType: 1
-    spawnTime: 24
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 28
+    spawnPositionX: 5
+    spawnPositionY: -44
   - id: 9
     progressId: 1
-    enemyType: 1
-    spawnTime: 27
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 31.5
+    spawnPositionX: -15
+    spawnPositionY: -39
   - id: 10
     progressId: 1
-    enemyType: 1
-    spawnTime: 30
-    spawnPositionX: 1
-    spawnPositionY: 2
+    enemyType: Normal
+    spawnTime: 35
+    spawnPositionX: 44
+    spawnPositionY: -39

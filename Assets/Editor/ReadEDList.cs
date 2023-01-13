@@ -25,7 +25,7 @@ public class ReadEDList
                 EnemyData enemyData = new EnemyData();
                 Type type = typeof(EnemyData);
                 for (int j = worksheet.Dimension.Start.Column; j <= worksheet.Dimension.End.Column; j++)
-                {
+                {   //Color color = (Color)Enum.Parse(typeof(Color), red, true);
                     FieldInfo variable = type.GetField(worksheet.GetValue(2, j).ToString());
                     string tableValue = worksheet.GetValue(i, j).ToString();
                     variable.SetValue(enemyData, Convert.ChangeType(tableValue, variable.FieldType));

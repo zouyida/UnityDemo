@@ -19,7 +19,7 @@ public class EnemyData
 {
     public uint id;
     public uint progressId;
-    public EnemyType enemyType;
+    public string enemyType;
     public float spawnTime;
     public int spawnPositionX;
     public int spawnPositionY;
